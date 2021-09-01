@@ -1,3 +1,4 @@
+https://nsd.zoom.us/j/84807000389?pwd=UXQ3KzVvbnhtMCtLQnppU0doOVF4UT09.
 # GitHub + Slack Integration
 
 | :warning: IMPORTANT          |
